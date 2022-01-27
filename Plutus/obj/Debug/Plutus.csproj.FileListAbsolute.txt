@@ -1,0 +1,9 @@
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.Properties.Resources.resources
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.csproj.GenerateResource.cache
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.csproj.CoreCompileInputs.cache
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\bin\Debug\Plutus.exe
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\bin\Debug\Plutus.pdb
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.exe
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.pdb
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.pluto.resources
+C:\Users\jakey\Desktop\Malware Programming\Plutus\Plutus\obj\Debug\Plutus.csprojAssemblyReference.cache
